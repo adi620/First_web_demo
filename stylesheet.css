@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+.userpass{
+    color:blue;
+}
+.diffjats{
+    color:brown;
+}
+h4{
+    color: red;
+    background-color: darkcyan;
+}
+
+h3{
+    color: red;
+    background-color: darkcyan;
+}
+
+p{
+    color: darkblue;
+    background-color: darkcyan;
+}
+
+.header{
+    color:white;
+    background-color: darkcyan;
+}
+.Vdetails{
+    color="white";
+    background-color: darkcyan;
+}
+
+button{
+    color: yellow;
+}
