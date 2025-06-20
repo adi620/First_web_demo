@@ -9,12 +9,12 @@ body {
     color:brown;
 }
 h4{
-    color: red;
+    color:lightyellow;
     background-color: darkcyan;
 }
 
 h3{
-    color: red;
+    color: lightyellow;
     background-color: darkcyan;
 }
 
@@ -28,10 +28,15 @@ p{
     background-color: darkcyan;
 }
 .Vdetails{
-    color="white";
+    color: lightyellow;
     background-color: darkcyan;
 }
 
 button{
     color: yellow;
+}
+
+.footer{
+    color:white;
+    background-color: darkcyan;
 }
